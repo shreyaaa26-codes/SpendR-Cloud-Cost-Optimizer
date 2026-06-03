@@ -578,14 +578,14 @@ User Monitoring Interface
 
 We plan to extend SpendR with:
 
-- 📧 Email and SMS Alerting System
-- ☁️ Multi-Cloud Support (AWS, Azure, GCP)
-- 📈 Cloud Cost Forecasting using Predictive Analytics
-- 🤖 Reinforcement Learning-Based Optimization
-- 📊 Grafana & Prometheus Monitoring Integration
-- 🗄️ DynamoDB/PostgreSQL Integration
-- 🐳 Docker & Kubernetes Deployment
-- 🔔 Slack and Microsoft Teams Notifications
+-  Email and SMS Alerting System
+-  Multi-Cloud Support (AWS, Azure, GCP)
+-  Cloud Cost Forecasting using Predictive Analytics
+-  Reinforcement Learning-Based Optimization
+-  Grafana & Prometheus Monitoring Integration
+-  DynamoDB/PostgreSQL Integration
+-  Docker & Kubernetes Deployment
+-  Slack and Microsoft Teams Notifications
 
 ---
 
