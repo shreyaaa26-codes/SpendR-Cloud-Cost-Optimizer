@@ -529,6 +529,13 @@ User Monitoring Interface
 
 # 👨‍💻 Our Contributions
 
+### Cloud Deployment - Rida Azam
+
+- Provisioned AWS EC2 infrastructure
+- Configured Security Groups
+- Managed SSH access
+- Deployed and tested the backend on cloud infrastructure
+  
 ### Backend Development - Avani Verma and Niharika G
 
 - Built the data ingestion pipeline
@@ -544,13 +551,6 @@ User Monitoring Interface
 - Connected frontend with Flask API
 - Displayed live cloud optimization metrics
 - Visualized ML decisions and confidence scores
-
-### Cloud Deployment - Rida Azam
-
-- Provisioned AWS EC2 infrastructure
-- Configured Security Groups
-- Managed SSH access
-- Deployed and tested the backend on cloud infrastructure
 
 ---
 
