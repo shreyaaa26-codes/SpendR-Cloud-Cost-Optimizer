@@ -59,22 +59,22 @@ SpendR addresses these challenges by combining Machine Learning and Cloud Automa
 
 SpendR introduces an intelligent cloud optimization pipeline capable of:
 
-### 🔍 Continuous Resource Monitoring
+### 1. Continuous Resource Monitoring
 Tracks cloud usage patterns in real time.
 
-### 🤖 AI-Based Anomaly Detection
+### 2. AI-Based Anomaly Detection
 Uses Isolation Forest to identify abnormal resource behavior.
 
-### ⚡ Intelligent Decision Making
+### 3. Intelligent Decision Making
 Evaluates anomalies using confidence scoring and rule-based logic.
 
-### ☁️ AWS Infrastructure Automation
+### 4. AWS Infrastructure Automation
 Automatically performs cost-saving actions on EC2 instances.
 
-### 📊 Dashboard Visualization
+### 5. Dashboard Visualization
 Provides a user-friendly interface for monitoring system decisions.
 
-### 📝 Action Logging
+### 6. Action Logging
 Maintains detailed logs for transparency and auditing.
 
 ---
@@ -140,43 +140,43 @@ Maintains detailed logs for transparency and auditing.
 
 # 🌟 Key Features
 
-### 🤖 Machine Learning-Based Anomaly Detection
+### 1. Machine Learning-Based Anomaly Detection
 
 Utilizes the Isolation Forest algorithm to identify unusual cloud resource usage patterns.
 
 ---
 
-### ☁️ AWS EC2 Automation
+### 2. AWS EC2 Automation
 
 Direct integration with AWS using Boto3 enables automated instance management.
 
 ---
 
-### 📊 Real-Time Monitoring
+### 3. Real-Time Monitoring
 
 Continuously analyzes incoming cloud metrics and updates decisions dynamically.
 
 ---
 
-### 🎯 Confidence-Based Decision Engine
+### 4. Confidence-Based Decision Engine
 
 Generates confidence scores before performing automated actions.
 
 ---
 
-### 📝 Audit Logging
+### 5. Audit Logging
 
 Stores all optimization actions with timestamps for accountability and debugging.
 
 ---
 
-### 🌐 REST API Support
+### 6. REST API Support
 
 Flask API exposes real-time optimization data to frontend applications.
 
 ---
 
-### 📈 Cost Reduction
+### 7. Cost Reduction
 
 Automatically detects and eliminates unnecessary cloud spending.
 
@@ -529,7 +529,7 @@ User Monitoring Interface
 
 # 👨‍💻 Our Contributions
 
-### Backend Development - Avani Verma and Shreya L
+### Backend Development - Avani Verma and Niharika G
 
 - Built the data ingestion pipeline
 - Developed the Isolation Forest anomaly detection model
@@ -538,7 +538,7 @@ User Monitoring Interface
 - Developed logging functionality
 - Built Flask REST APIs
 
-### Frontend Development - Niharika G
+### Frontend Development - Shreya L
 
 - Designed dashboard UI
 - Connected frontend with Flask API
@@ -599,13 +599,3 @@ The project demonstrates how intelligent systems can proactively optimize cloud 
 
 ---
 
-<div align="center">
-
-### 💸 SpendR — AI-Powered Cloud Cost Optimization
-
-**Built during Tech Solstice Hackathon 2026**  
-**Manipal Institute of Technology, Bengaluru**
-
-🚀 Cloud Computing • 🤖 Artificial Intelligence • ☁️ AWS Automation • 📊 Real-Time Analytics
-
-</div>
